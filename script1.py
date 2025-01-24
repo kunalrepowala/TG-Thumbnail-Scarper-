@@ -10,7 +10,7 @@ from telegram.ext import Application, MessageHandler, filters, CommandHandler, C
 #TOKEN = "7660007316:AAHis4NuPllVzH-7zsYhXGfgokiBxm_Tml0"
 
 # Channel ID (replace with your actual channel ID)
-CHANNEL_ID = "-1002437038123"  # You can also use the numeric version of the channel ID
+CHANNEL_ID = "-1002400575005"  # You can also use the numeric version of the channel ID
 
 # Define the asynchronous function that handles incoming media messages
 async def handle_media(update: Update, context: CallbackContext) -> None:
